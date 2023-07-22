@@ -3,10 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contribution](#contribution)
-6. [License](#license)
+
 
 ## Introduction
 Welcome to PowerBi-AdventureWorks-Report, a Power BI project which is focused on solving data analysis assignments and showcasing the necessary knowledge about Power BI  that simulates a real-world business scenario.
